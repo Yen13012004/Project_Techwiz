@@ -1,0 +1,69 @@
+@import '.././../../../styles.scss';
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+ul {
+    list-style: none;
+}
+
+del{
+    color: #333;
+}
+
+.breadcrumbs{
+    padding-top: 20px;
+    background-color: #e9ecef;
+}
+
+main{
+    .box-title {
+        background: #e9ecef ;
+        padding: 10px 0;
+        .default {
+          text-decoration: none;
+          color: #999999;
+          &:hover {
+            color: #ccc;
+          }
+        }
+        .title {
+          font-size: 35px;
+        }
+      }
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 60px;
+    
+}
+
+.price1{
+    border-radius: 40px;
+    width: 70px;
+    background-color: #333;
+    color: #e9ecef;
+}
+
+.product a{
+    border: 1px solid #333;
+    // padding-left: 20px;
+    margin-left: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.compare{
+    padding-top: 20px;
+}
+
+.compare .row{
+    padding-top: 10px;
+}
+
+.sale_price{
+    color: $main-color;
+}

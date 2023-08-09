@@ -1,0 +1,355 @@
+{
+  "account": [
+    {
+      "name": "nguyen van tuan",
+      "email": "tuan234@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "nguyen van hi",
+      "email": "tuan234@gmail.com",
+      "password": "3r23r23",
+      "id": 3
+    },
+    {
+      "name": "tuilatui",
+      "email": "tuan234@gmail.com",
+      "password": "111",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "name": "Fringilla Augue",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product1.jpg",
+      "price": 85,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "1"
+    },
+    {
+      "name": "Placerat Vestibulum",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product5.jpg",
+      "price": 71,
+      "sale_price": 8,
+      "category_id": 2,
+      "id": "2"
+    },
+    {
+      "name": "Spanien Libero",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product7.jpg",
+      "price": 70,
+      "sale_price": 6,
+      "category_id": 1,
+      "id": "3"
+    },
+    {
+      "name": "Adipiscing Cursus",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product9.jpg",
+      "price": 5,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "4"
+    },
+    {
+      "name": "Recycled Frozen Pizza",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product3.jpg",
+      "price": 88,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "5"
+    },
+    {
+      "name": "Sleek Rubber Chicken",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product3.jpg",
+      "price": 38,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "6"
+    },
+    {
+      "name": "Luxurious Metal Table",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product4.jpg",
+      "price": 54,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "7"
+    },
+    {
+      "name": "Handcrafted Cotton Sausages",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product6.jpg",
+      "price": 71,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "8"
+    },
+    {
+      "name": "Fantastic Cotton Ball",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product8.jpg",
+      "price": 49,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "9"
+    },
+    {
+      "name": "Bespoke Cotton Bacon",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product10.jpg ",
+      "price": 30,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "10"
+    },
+    {
+      "name": "Practical Granite Sausages",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product4.jpg",
+      "price": 57,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "11"
+    },
+    {
+      "name": "Unbranded Granite Chicken",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product1.jpg",
+      "price": 8,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "12"
+    },
+    {
+      "name": "Incredible Concrete Chicken",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product2.jpg",
+      "price": 84,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "13"
+    },
+    {
+      "name": "Modern Soft Soap",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product1.jpg",
+      "price": 7,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "14"
+    },
+    {
+      "name": "Sleek Steel Sausages",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product5.jpg",
+      "price": 36,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "15"
+    },
+    {
+      "name": "Bespoke Plastic Tuna",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product1.jpg",
+      "price": 26,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "16"
+    },
+    {
+      "name": "Intelligent Frozen Keyboard",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product4.jpg",
+      "price": 8,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "17"
+    },
+    {
+      "name": "Incredible Wooden Shirt",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product2.jpg",
+      "price": 49,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "18"
+    },
+    {
+      "name": "Bespoke Concrete Shoes",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product6.jpg",
+      "price": 11,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "19"
+    },
+    {
+      "name": "Fantastic Wooden Towels",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product3.jpg",
+      "price": 6,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "20"
+    },
+    {
+      "name": "Small Steel Bacon",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product8.jpgn",
+      "price": 12,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "21"
+    },
+    {
+      "name": "Handmade Cotton Salad",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product3.jpg",
+      "price": 88,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "22"
+    },
+    {
+      "name": "Practical Plastic Cheese",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product10.jpg",
+      "price": 68,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "23"
+    },
+    {
+      "name": "Handmade Wooden Chicken",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product9.jpg",
+      "price": 21,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "24"
+    },
+    {
+      "name": "Licensed Granite Bacon",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product1.jpg",
+      "price": 5,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "25"
+    },
+    {
+      "name": "Small Bronze Mouse",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product7.jpg",
+      "price": 59,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "26"
+    },
+    {
+      "name": "Fantastic Granite Table",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product4.jpg",
+      "price": 35,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "27"
+    },
+    {
+      "name": "Oriental Bronze Shirt",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product6.jpg",
+      "price": 74,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "28"
+    },
+    {
+      "name": "Sleek Granite Towels",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product6.jpg",
+      "price": 50,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "29"
+    },
+    {
+      "name": "Electronic Concrete Table",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product7.jpg",
+      "price": 74,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "30"
+    },
+    {
+      "name": "Recycled Cotton Computer",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product8.jpg",
+      "price": 62,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "31"
+    },
+    {
+      "name": "Awesome Fresh Gloves",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product9.jpg",
+      "price": 51,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "32"
+    },
+    {
+      "name": "Unbranded Wooden Soap",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product10.jpg",
+      "price": 90,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "33"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product1.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product2.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product3.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product4.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product6.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product8.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Elegant Bronze Pants",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product9.jpg",
+      "price": 94,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "34"
+    },
+    {
+      "name": "Electronic Bronze Salad",
+      "image": "https://htmldemo.net/lukani/lukani/assets/img/product/product10.jpg",
+      "price": 52,
+      "sale_price": 12,
+      "category_id": 1,
+      "id": "35"
+    }
+  ],
+  "category": [
+
+  ]
+}
